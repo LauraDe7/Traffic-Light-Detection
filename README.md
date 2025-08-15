@@ -25,5 +25,5 @@ When the classification is done, you will receive a printed message in the termi
 1. Add steps for running this project.
 2. Make sure to include any required libraries that need to be installed for your project to run.
 
-[View a video explanation here](video link)
+[[View a video explanation here](video link)](https://drive.google.com/file/d/1iBWRl6-b8WPPXRKmsdP-ZS_kU0s7UBrv/view?usp=drive_link)
 
